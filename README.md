@@ -30,3 +30,7 @@ Neste projeto aprendi novamente a trabalhar em equipe com pessoas que não conhe
 ## Prototipagem
 
 Ela será postada futuramente. Pois aind aestá em faze de desenvolvimento.
+
+## Atualização
+
+
